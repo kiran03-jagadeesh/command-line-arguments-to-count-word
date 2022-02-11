@@ -36,8 +36,8 @@ print("Number of words={}".format(num_words))
 ```
 
 ### OUTPUT:
-![output]()
-![output]()
+![output](imgg.png)
+![output](imggg.png)
 
 
 ## RESULT:
